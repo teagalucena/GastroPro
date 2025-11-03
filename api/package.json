@@ -1,0 +1,10 @@
+{
+  "name": "foto-pro-api",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "formidable": "^3.5.0"
+  }
+}
